@@ -22,16 +22,14 @@ last_modified_at: 2022-04-30T08:06:00-05:00
   * 둘
     * 셋 
 
-<pre>
-<code>
+```
 #include<stdio.h>
 int main(void)
 {
   printf("Hello World!!!\n);
   return 0;
 }
-</code>
-</pre>
+```
 
 > This is a first blockqute.
 > > This is a first blockqute.
